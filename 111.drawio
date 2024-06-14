@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-06-14T10:50:33.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wVhiyeaJFmq6mtvUYbJq" version="24.5.4" type="github">
+  <diagram name="第 1 页" id="Qqk_kVtSjaQXu1OD2WRN">
+    <mxGraphModel dx="1194" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_WXwK8EGb4O9TPyo5fnK-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_WXwK8EGb4O9TPyo5fnK-3" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WXwK8EGb4O9TPyo5fnK-4" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WXwK8EGb4O9TPyo5fnK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_WXwK8EGb4O9TPyo5fnK-3" target="_WXwK8EGb4O9TPyo5fnK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
